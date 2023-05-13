@@ -9,6 +9,14 @@ app.use(express.json());
 app.get("/", (req, res) => {
   res.send("bubu form node");
 });
+
+// Data
+const coffee = require("./data/coffee.json");
+
+app.get("/coffees", (req, res) => {
+  res.send(coffee);
+});
+
 app.listen(port, () => {
   console.log(`listening from ${port}`);
 });
