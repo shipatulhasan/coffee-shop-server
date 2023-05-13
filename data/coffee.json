@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/rwKzLG5/5.png",
+        "name": "Arabica",
+        "description": "Arabica coffee is known for its delicate flavor and low acidity.",
+        "price": 9.99,
+        "taste": "Delicate"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/XL0qVtB/brewdoo-coffee-cup.png",
+        "name": "Robusta",
+        "description": "Robusta coffee has a strong, bitter flavor and high caffeine content.",
+        "price": 7.99,
+        "taste": "Strong"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/16Xcj75/6.png",
+        "name": "Kona",
+        "description": "Kona coffee is grown exclusively in the Kona region of Hawaii and has a rich, smooth flavor.",
+        "price": 12.99,
+        "taste": "Rich"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/BcxD00v/classics-3-4perspective-master-file-website-1200x880-cappucino-880x1200.png",
+        "name": "Colombian",
+        "description": "Colombian coffee is known for its bright, fruity flavor and medium acidity.",
+        "price": 8.99,
+        "taste": "Fruity"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/MD646R2/4.png",
+        "name": "Espresso",
+        "description": "Espresso is a strong, concentrated coffee with a rich, creamy texture.",
+        "price": 6.99,
+        "taste": "Strong"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/DRKKFVB/115944.png",
+        "name": "French Roast",
+        "description": "French roast coffee is roasted to a dark, rich color and has a bold, smoky flavor.",
+        "price": 10.99,
+        "taste": "Bold"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/xfz0GCk/3.png",
+        "name": "Cappuccino",
+        "description": "Cappuccino is a coffee drink made with espresso and steamed milk, topped with a layer of foam.",
+        "price": 5.99,
+        "taste": "Creamy"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/FVMb7dQ/1.png",
+        "name": "Decaf",
+        "description": "Decaf coffee has had most of its caffeine removed, but still retains its flavor.",
+        "price": 7.99,
+        "taste": "Mild"
+    }
+]
